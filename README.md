@@ -1,3 +1,5 @@
+# Gebruiker
+Gideon Bakker - Gideonmkp98 - g.bakker1@student.avans.nl
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
